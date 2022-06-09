@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         println("This is our forth Commit")
         println("This is our fifth Commit")
         println("This is our stories branch message")
+        println("This is our stories number 2 branch message")
     }
 }
